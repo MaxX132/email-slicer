@@ -7,6 +7,7 @@ A program created out of pure boredom, slices emails to usernames and domains an
 1. Single email address
 2. A path to a file including multiple addresses
 2.1 A format of addresses inside a file should look like this:
+
 `username1@domain1.com`
 
 `username2@domain1.com`
