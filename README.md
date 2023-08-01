@@ -8,9 +8,9 @@ A program created out of pure boredom, slices emails to usernames and domains an
 2. A path to a file including multiple addresses
 2.1 A format of addresses inside a file should look like this:
 
-`username1@domain1.com
-username2@domain1.com
-username3@domain2.com`
+`username1@domain1.com`
+`username2@domain1.com`
+`username3@domain2.com`
 
 ### Output:
 1. If you have entered a single address it will appear sliced in the console using following format: `Username: {email_username} Domain: {email_domain}`
