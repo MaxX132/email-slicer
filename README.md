@@ -8,7 +8,7 @@ A program created out of pure boredom, slices emails to usernames and domains an
 2. A path to a file including multiple addresses
 
 ### Output:
-1. If you have entered a single address it will appear sliced in the console using following format: Username: {email_username} Domain: {email_domain}
+1. If you have entered a single address it will appear sliced in the console using following format: `Username: {email_username} Domain: {email_domain}`
 2. If you have a path to a file it will create a new .xlsx file in the same directory as the script what will be a spreadsheet
 
 ## Instalation
